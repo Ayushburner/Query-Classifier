@@ -1,0 +1,164 @@
+query,classification,sub_classification
+What is the weather today?,0,-1
+Tell me a joke.,0,-1
+How do I bake a cake?,0,-1
+Find the latest research papers on AI.,1,0
+Show me the user manual for the iPhone 12.,1,1
+What are the symptoms of COVID-19?,1,2
+Is it going to rain today?,0,-1
+Tell me a funny story.,0,-1
+How to make chocolate chip cookies?,0,-1
+Search for recent studies on machine learning.,1,0
+Find the instruction manual for Samsung Galaxy S21.,1,1
+What are the side effects of the COVID-19 vaccine?,1,2
+What's the weather forecast for tomorrow?,0,-1
+Tell me something interesting.,0,-1
+Steps to bake a chocolate cake.,0,-1
+Show me papers on deep learning.,1,0
+User guide for iPhone 13.,1,1
+What are the new COVID-19 variants?,1,2
+What is the capital of Canada?,0,-1
+How many days are in a leap year?,0,-1
+Who wrote the Harry Potter series?,0,-1
+What is the largest country in the world?,0,-1
+When did the first iPhone release?,0,-1
+How do I make a paper airplane?,0,-1
+What is the tallest mountain on Earth?,0,-1
+What is the national animal of Australia?,0,-1
+How do I cook a perfect steak?,0,-1
+What is the meaning of life?,0,-1
+Find research papers on climate change impact on agriculture.,1,0
+What are the side effects of lithium-ion batteries?,1,0
+Show me the user manual for a Nikon D5300 camera.,1,1
+Search for recent studies on artificial intelligence in healthcare.,1,0
+What are the symptoms of dengue fever?,1,2
+Find papers on the impact of social media on mental health.,1,0
+User guide for a Tesla Model S.,1,1
+What are the new strains of the flu?,1,2
+Show me research on renewable energy sources.,1,0
+What are the long-term effects of COVID-19?,1,2
+What is the best way to learn a new language?,0,-1
+How do I change a tire?,0,-1
+What are the benefits of meditation?,0,-1
+How do I start a garden?,0,-1
+What is the difference between AI and machine learning?,0,-1
+How do I make a smoothie?,0,-1
+What is the capital of Brazil?,0,-1
+How do I tie a tie?,0,-1
+What is the speed of light?,0,-1
+How do I bake bread?,0,-1
+Find research papers on the impact of climate change on coral reefs.,1,0
+What are the side effects of antidepressants?,1,2
+Show me the user manual for a GoPro Hero9.,1,1
+Search for recent studies on the human brain.,1,0
+What are the symptoms of arthritis?,1,2
+Find papers on the effectiveness of online education.,1,0
+User guide for a DJI Mavic Air 2.,1,1
+What are the new strains of influenza?,1,2
+Show me research on electric vehicles.,1,0
+What are the long-term effects of sugar consumption?,1,2
+What is the best way to learn to play guitar?,0,-1
+How do I change a flat tire?,0,-1
+What are the benefits of exercise?,0,-1
+How do I start a business?,0,-1
+What is the difference between a planet and a star?,0,-1
+How do I make a pizza?,0,-1
+What is the capital of Egypt?,0,-1
+How do I tie a bow tie?,0,-1
+What is the speed of sound?,0,-1
+How do I bake cookies?,0,-1
+Find research papers on the impact of artificial intelligence on jobs.,1,0
+What are the side effects of chemotherapy?,1,2
+Show me the user manual for a Nintendo Switch.,1,1
+Search for recent studies on climate change adaptation.,1,0
+What are the symptoms of depression?,1,2
+Find papers on the effectiveness of remote work.,1,0
+User guide for a DJI Mavic Mini.,1,1
+What are the new strains of bacteria?,1,2
+Show me research on space exploration.,1,0
+What are the long-term effects of alcohol consumption?,1,2
+What is the best way to learn to swim?,0,-1
+How do I change a lightbulb?,0,-1
+What are the benefits of yoga?,0,-1
+How do I start a blog?,0,-1
+What is the difference between a comet and an asteroid?,0,-1
+How do I make soup?,0,-1
+What is the capital of South Africa?,0,-1
+How do I tie a shoelace?,0,-1
+What is the speed of sound in water?,0,-1
+How do I bake brownies?,0,-1
+Find research papers on the impact of climate change on climate-related disasters.,1,0
+What are the side effects of smoking?,1,2
+What is the best way to lose weight?,0,-1
+How do I change a car battery?,0,-1
+What are the benefits of sleep?,0,-1
+How do I start a podcast?,0,-1
+What is the difference between a virus and bacteria?,0,-1
+How do I make a salad?,0,-1
+What is the capital of India?,0,-1
+How do I tie a scarf?,0,-1
+What is the distance to the moon?,0,-1
+How do I bake muffins?,0,-1
+Find research papers on the impact of climate change on polar bears.,1,0
+What are the side effects of antibiotics?,1,2
+Show me the user manual for a DSLR camera.,1,1
+Search for recent studies on renewable energy technologies.,1,0
+What are the symptoms of allergies?,1,2
+Find papers on the effectiveness of online therapy.,1,0
+User guide for a smart watch.,1,1
+What are the new strains of bacteria causing food poisoning?,1,2
+Show me research on artificial intelligence in education.,1,0
+What are the long-term effects of air pollution?,1,2
+What is the best way to learn a new skill?,0,-1
+How do I jump start a car?,0,-1
+What are the benefits of reading?,0,-1
+How do I start a YouTube channel?,0,-1
+What is the difference between a reptile and an amphibian?,0,-1
+How do I make a sandwich?,0,-1
+What is the capital of France?,0,-1
+How do I tie a head scarf?,0,-1
+What is the distance to the sun?,0,-1
+How do I bake a pie?,0,-1
+Find research papers on the impact of social media on elections.,1,0
+What are the side effects of painkillers?,1,2
+Show me the user manual for a drone.,1,1
+Search for recent studies on mental health in teenagers.,1,0
+What are the symptoms of asthma?,1,2
+Find papers on the effectiveness of online shopping.,1,0
+User guide for a smart home system.,1,1
+What are the new strains of the coronavirus?,1,2
+Show me research on renewable energy storage.,1,0
+What are the long-term effects of smoking?,1,2
+What is the best way to learn a new instrument?,0,-1
+How do I change a bike tire?,0,-1
+What are the benefits of volunteering?,0,-1
+How do I start a blog?,0,-1
+What is the difference between a mammal and a bird?,0,-1
+How do I make a soup?,0,-1
+What is the capital of Russia?,0,-1
+How do I tie a turban?,0,-1
+What is the distance to Mars?,0,-1
+How do I bake a cheesecake?,0,-1
+Find research papers on the impact of climate change on ocean levels.,1,0
+What are the side effects of chemotherapy?,1,2
+Show me the user manual for a projector.,1,1
+Search for recent studies on artificial intelligence in finance.,1,0
+What are the symptoms of food poisoning?,1,2
+Find papers on the effectiveness of remote learning.,1,0
+User guide for a smart speaker.,1,1
+What are the new strains of the flu virus?,1,2
+Show me research on sustainable agriculture.,1,0
+What are the long-term effects of obesity?,1,2
+What is the best way to learn a new language?,0,-1
+How do I change a car tire?,0,-1
+What are the benefits of meditation?,0,-1
+How do I start a garden?,0,-1
+What is the difference between AI and machine learning?,0,-1
+How do I make a smoothie?,0,-1
+What is the capital of Brazil?,0,-1
+How do I tie a tie?,0,-1
+What is the speed of light?,0,-1
+How do I bake bread?,0,-1
+How do I change a bike chain?,0,-1
+What are the benefits of yoga?,0,-1
+How do I start a blog?,0,-1
